@@ -36,11 +36,25 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.2"
+  english_words:
+    dependency: "direct main"
+    description:
+      name: english_words
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.1.5"
   flutter:
     dependency: "direct main"
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_staggered_grid_view:
+    dependency: "direct main"
+    description:
+      name: flutter_staggered_grid_view
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.2.7"
   flutter_test:
     dependency: "direct dev"
     description: flutter
